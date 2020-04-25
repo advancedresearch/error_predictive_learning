@@ -1,0 +1,16 @@
+[package]
+name = "advancedresearch-error_predictive_learning"
+version = "0.1.0"
+authors = ["Sven Nilsen <bvssvni@gmail.com>"]
+edition = "2018"
+description = "Black-box learning algorithm using error prediction levels"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/advancedresearch/error_predictive_learning.git"
+homepage = "https://github.com/advancedresearch/error_predictive_learning"
+exclude = []
+
+[lib]
+name = "error_predictive_learning"
+
+[dependencies]
